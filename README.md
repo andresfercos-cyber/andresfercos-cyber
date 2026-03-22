@@ -63,11 +63,13 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 </p>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
 </p>
-
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
