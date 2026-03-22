@@ -63,6 +63,10 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 </p>
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
 
 
 <p align="center">
