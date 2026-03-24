@@ -16,7 +16,9 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 * 👥  I'm looking to collaborate on Projects that invite me
 * 💬  Ask me about My fuel is curiosity. If there's a new technology or an unsolved technical problem, that's where I want to be.
 
-
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -39,8 +41,7 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 
 
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
+
 
 
 
@@ -105,10 +106,9 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
 
 <br>
 
