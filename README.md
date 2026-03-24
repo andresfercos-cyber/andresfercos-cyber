@@ -41,7 +41,6 @@ I grew up surrounded by circuits, and today I'm building the future with code an
  
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 **Diseño & Multimedia**
 <p align="left">
