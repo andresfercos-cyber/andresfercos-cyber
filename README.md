@@ -16,9 +16,6 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 * 👥  I'm looking to collaborate on Projects that invite me
 * 💬  Ask me about My fuel is curiosity. If there's a new technology or an unsolved technical problem, that's where I want to be.
 
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
 
 
 ### 🛠️ Tecnologías y Herramientas
@@ -48,7 +45,7 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 
 <br>
 
-
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 
 
@@ -102,7 +99,7 @@ I grew up surrounded by circuits, and today I'm building the future with code an
  <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a>
  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+
    
 </p>
 
@@ -111,6 +108,10 @@ I grew up surrounded by circuits, and today I'm building the future with code an
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 
 - **Cloud Hosting**:
