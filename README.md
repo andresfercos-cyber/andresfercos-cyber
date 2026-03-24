@@ -8,7 +8,7 @@ Web and Multimedia Developer | Dual Degree in Systems | Specialist in Technical 
 
 Web & Multimedia Developer | Systems Specialist with 15+ Years of Experience
 
-I grew up surrounded by circuits, and today I'm building the future with code and AI. With a solid 15-year foundation in hardware technical support, I've evolved into Multimedia and Web Development (SENA), integrating Artificial Intelligence into every workflow. I'm a self-taught specialist focused on scalable solutions, systems optimization, and modern digital architecture.
+Web and multimedia developer in training (SENA). I ​​have 15 years of experience in computer technical support and repair, which has given me a solid foundation in systems and troubleshooting. I currently develop projects using HTML, JavaScript, and Python, integrating artificial intelligence. I focus on functional solutions and optimization.
 
 * 🌍  I'm based in colombia
 * ✉️  You can contact me at [andresfercos@gmail.com](mailto:andresfercos@gmail.com)
