@@ -3,7 +3,7 @@
 
 =======================================================================================
 
-Web and Multimedia Developer | Dual Degree in Systems | Specialist in Technical Support & AI
+Desarrollador web en formación | Sistemas | Experiencia en soporte técnico (15 años) | IA aplicada
 --------------------------------------------------------------------------------------------
 
 Web & Multimedia Developer | Systems Specialist with 15+ Years of Experience
