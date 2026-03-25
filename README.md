@@ -44,7 +44,7 @@ Web and multimedia developer in training (SENA). I ​​have 15 years of experi
 </p>
 
 
-**Diseño & Multimedia**
+**Design and Multimedia**
 <p align="left">
  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a>
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a>
@@ -57,7 +57,7 @@ Web and multimedia developer in training (SENA). I ​​have 15 years of experi
 
    
 </p>
-**Herramientas**
+**Tools**
 <p align="left">
 
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
