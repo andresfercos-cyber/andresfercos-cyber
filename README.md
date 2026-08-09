@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm ANDRES COSME </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-    <b>Desarrollador web en formación | Sistemas | Experiencia en soporte técnico (15 años) | IA aplicada</b><br>
+    <b>Web developer in training | Sistemas | Experiencia en soporte técnico (15 años) | IA aplicada</b><br>
         <i>Web & Multimedia Developer | Systems Specialist with 15+ Years of Experience</i>
 </p>
 
